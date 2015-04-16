@@ -1,0 +1,9 @@
+[user]
+        email =
+        name =
+[alias]
+        st = status
+        ps = push
+        br = branch
+        ch = checkout
+        c = commit
