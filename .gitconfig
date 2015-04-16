@@ -3,6 +3,7 @@
         name =
 [alias]
         st = status
+        pl = pull
         ps = push
         br = branch
         ch = checkout
