@@ -1,6 +1,8 @@
 [user]
         email =
         name =
+[color "status"]
+        branch = yellow bold
 [alias]
         st = status
         pl = pull
