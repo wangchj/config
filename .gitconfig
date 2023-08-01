@@ -10,3 +10,6 @@
         br = branch
         ch = checkout
         c = commit
+        d = diff
+        dc = diff --cached
+        dh = diff HEAD~1 HEAD
