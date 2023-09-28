@@ -13,3 +13,5 @@
         d = diff
         dc = diff --cached
         dh = diff HEAD~1 HEAD
+        rd = !git push origin --delete $(git symbolic-ref --short HEAD)
+        rp = !git push -u origin $(git symbolic-ref --short HEAD)
